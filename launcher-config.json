@@ -1,0 +1,29 @@
+{
+  "launcherName": "SOBAK Launcher",
+  "manifestUrl": "https://raw.githubusercontent.com/sobake0/sobak-launcher/main/manifest.json",
+  "newsUrl": "https://raw.githubusercontent.com/sobake0/sobak-launcher/main/news.json",
+  "discordUrl": "https://discord.gg/shSG8eAsA",
+  "serverAddress": "25.0.56.27",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.248",
+  "javaMajor": 21,
+  "memoryMb": 6144,
+  "managedMods": [
+    {
+      "id": "pixelmon",
+      "name": "Pixelmon 9.3.16",
+      "provider": "modrinth",
+      "projectId": "59ZceYlU",
+      "versionId": "LqFrsWa8",
+      "version": "9.3.16",
+      "gameVersion": "1.21.1",
+      "loader": "neoforge",
+      "relativePath": "mods/Pixelmon-1.21.1-9.3.16-universal.jar",
+      "cleanup": {
+        "directory": "mods",
+        "prefix": "Pixelmon-",
+        "suffix": ".jar"
+      }
+    }
+  ]
+}
