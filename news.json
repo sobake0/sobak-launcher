@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": "1788804979119",
+      "date": "2026-09-07",
+      "title": "테스트",
+      "body": "태스트",
+      "pinned": true,
+      "enabled": true
+    }
+  ]
+}
