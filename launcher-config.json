@@ -24,17 +24,6 @@
         "prefix": "Pixelmon-",
         "suffix": ".jar"
       }
-    },
-    {
-      "id": "u6dRKJwZ",
-      "name": "Just Enough Items (JEI) 19.51.0.418",
-      "provider": "modrinth",
-      "projectId": "u6dRKJwZ",
-      "versionId": "ufHUqt9b",
-      "version": "19.51.0.418",
-      "gameVersion": "1.21.1",
-      "loader": "neoforge",
-      "relativePath": "mods/jei-1.21.1-neoforge-19.51.0.418.jar"
     }
   ]
 }
